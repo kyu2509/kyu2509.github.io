@@ -1,5 +1,6 @@
 function alertHW() {
   alert("Hello, world!");
+  changeFontSize();
 }
 
 function changeFontSize() {
