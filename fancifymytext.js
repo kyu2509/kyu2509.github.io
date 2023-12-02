@@ -43,4 +43,3 @@ function check() {
 function unCheck() {
   document.getElementById("fancy").checked = false;
 }
-
